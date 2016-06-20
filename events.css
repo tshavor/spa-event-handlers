@@ -1,0 +1,39 @@
+body {
+	background-color: gray;
+}
+.back {
+	border: 2px solid black;
+	margin: 12%;
+	padding-left: 12%;
+	background-color: lightblue;
+	border-radius: 20px;
+}
+#button {
+	display: inline-block;
+	}
+
+	/*When you click the "Add color" button, the guinea-pig element's text color should change to blue.*/
+.blue{
+	color: blue;
+}
+
+/*When you click the "Hulkify" button, the guinea-pig element's font size should become much larger.*/
+.large{
+	font-size: 80px;
+}
+
+/*When you click the "Capture it" button, the guinea-pig element should have a border added to it.*/
+.border{
+	border-style: solid;
+}
+
+/*When you click the "Rounded" button, the guinea-pig element's border should become rounded.*/
+.rounded{
+	border-radius:20px;
+}
+
+
+
+
+
+/*Make the buttons stop appearing next to each other as inline elements. Change them into block elements.*/
